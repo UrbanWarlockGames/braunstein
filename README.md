@@ -1,4 +1,21 @@
 # Braunstein Demo
+
+## Table of Contents
+- [Braunstein Demo](#braunstein-demo)
+  - [Setup](#setup)
+  - [Events](#events)
+  - [Relics](#relics)
+  - [Secret Mission](#secret-mission)
+  - [Stats](#stats)
+        - [Stats](#stats-1)
+  - [Actions](#actions)
+    - [Home actions](#home-actions)
+    - [Offensive actions](#offensive-actions)
+    - [Subterfuge actions](#subterfuge-actions)
+    - [Diplomacy actions](#diplomacy-actions)
+    - [Improv actions](#improv-actions)
+  - [The End](#the-end)
+
 ## Setup
 Each Player will take control of a Faction in the setting. You may either choose one of the premade Factions or make your own, including assigning your Faction's Stats. Once you are done creating your Faction, you may pick any hex on the map to be your starting location with each hexes attributes defined by their marker on the map. Conflicting starting locations will be arbitrated by the Referee.
 
